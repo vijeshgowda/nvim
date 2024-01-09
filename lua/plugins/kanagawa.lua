@@ -6,8 +6,7 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "kanagawa",
+      colorscheme = "kanagawa-dragon",
     },
   },
-  vim.cmd("colorscheme kanagawa-dragon"),
 }
